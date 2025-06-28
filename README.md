@@ -1,6 +1,7 @@
 # Find-S Algorithm
 
-This project demonstrates the implementation of the **Find-S Algorithm** in Python for Machine Learning.
+This project demonstrates the implementation of the **Find-S Algorithm** in Python for Machine Learning.(created by Albin Biju)
+
 
 ## 🔍 What is Find-S?
 
